@@ -6,12 +6,13 @@ directly from a calendar event into the right note in Joplin.
 
 ---
 
-## ⚡ Install
+## ⚡ Installation
 
 [![Install with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-brightgreen?logo=tampermonkey)](https://github.com/Ymetro/tuta-joplin-links/raw/main/joplin-tuta.user.js)
 
-Or click the link directly:  
-👉 [Install script](https://github.com/Ymetro/tuta-joplin-links/raw/main/joplin-tuta.user.js)
+1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension in your browser
+2. Click the badge above — or 👉 [Install Script](https://github.com/Ymetro/tuta-joplin-links/raw/main/joplin-tuta.user.js)
+3. Open [app.tuta.com](https://app.tuta.com) — the script activates automatically
 
 ---
 
@@ -30,15 +31,6 @@ Or click the link directly:
 - [Tampermonkey](https://www.tampermonkey.net/) browser extension
 - [Joplin](https://joplinapp.org/) desktop app (with Web Clipper or local server running)
 - A [Tuta](https://tuta.com/) account
-
----
-
-## 🚀 Installation
-
-1. Install the [Tampermonkey](https://www.tampermonkey.net/) extension in your browser
-2. Click **[Install Script](https://raw.githubusercontent.com/Ymetro/YOUR-REPO-NAME/main/joplin-tuta.user.js)**
-   *(or open Tampermonkey → Dashboard → New Script and paste the code manually)*
-3. Open [app.tuta.com](https://app.tuta.com) — the script activates automatically
 
 ---
 
