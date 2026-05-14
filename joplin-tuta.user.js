@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Joplin x-callback-url Button for Tuta
+// @name         Joplin x-callback-url Button for Tuta Calendar
 // @namespace    https://github.com/Ymetro
-// @version      3.3.1
-// @description  Floating overlay buttons for Joplin links in Tuta – positioned right of link text
+// @version      3.3.2
+// @description  Adds floating overlay buttons for Joplin links inside Tuta Calendar events – positioned right of the link text
 // @author       Ymetro
 // @match        https://app.tuta.com/*
 // @grant        none
