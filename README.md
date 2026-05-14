@@ -1,4 +1,4 @@
-# 📓 Joplin x-callback-url Button for Tuta
+# 📓 Joplin x-callback-url Button for Tuta Calendar
 
 A lightweight Tampermonkey userscript that adds floating **"Open in Joplin"** buttons
 next to `joplin://` links in [Tuta Calendar](https://app.tuta.com) — so you can jump
@@ -18,7 +18,7 @@ directly from a calendar event into the right note in Joplin.
 
 ## ✨ Features
 
-- 🔵 Floating button appears **right next to** any `joplin://` link in Tuta
+- 🔵 Floating button appears **right next to** any `joplin://` link in Tuta Calendar
 - 🖱️ One click opens the linked note directly in Joplin
 - ⚡ Works with Tuta's **single-page app** (SPA) — reacts to navigation and DOM changes
 - 🔁 Buttons **reposition automatically** on window resize
@@ -36,7 +36,7 @@ directly from a calendar event into the right note in Joplin.
 
 ## 💡 How it works
 
-Tuta renders `joplin://` URLs as plain text (not clickable links).
+Tuta Calendar renders `joplin://` URLs as plain text (not clickable links).
 This script scans the DOM for those text nodes and places a floating button
 directly to the right of each one. Clicking the button triggers the
 `joplin://` protocol handler, which opens the linked note in your local Joplin app.
