@@ -6,6 +6,15 @@ directly from a calendar event into the right note in Joplin.
 
 ---
 
+## ⚡ Install
+
+[![Install with Tampermonkey](https://img.shields.io/badge/Install-Tampermonkey-brightgreen?logo=tampermonkey)](https://github.com/Ymetro/tuta-joplin-links/raw/main/joplin-tuta.user.js)
+
+Or click the link directly:  
+👉 [Install script](https://github.com/Ymetro/tuta-joplin-links/raw/main/joplin-tuta.user.js)
+
+---
+
 ## ✨ Features
 
 - 🔵 Floating button appears **right next to** any `joplin://` link in Tuta
